@@ -1,1 +1,1 @@
-# AltcoinsPricePrediction
+# Booking cancelation predictive model
